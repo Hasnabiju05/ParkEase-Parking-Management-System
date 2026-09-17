@@ -269,9 +269,3 @@ Possible future enhancements include:
 **Course:** Programming in Java
 **Project:** ParkEase – Parking Management System
 **Year:** 2026
-
----
-
-## License
-
-This project was developed as an academic project for the Programming in Java course at VIT Bhopal University.
